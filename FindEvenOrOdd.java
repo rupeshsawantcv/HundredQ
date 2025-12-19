@@ -17,5 +17,6 @@ class FindEvenOrOdd {
        }else{
            System.out.println("The Number is Odd: "+num);
        }
+        sc.close();
     }
 }
